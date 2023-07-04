@@ -2,7 +2,7 @@
 nome = '''Amanda'''
 idade = 28
 altura = 1.55
-maior_de_idade = True
+maior_de_idade = False
 
 #Tipos primitivos
 print(nome, type(nome), idade, type(idade), altura, type(altura), maiorDeIdade, type(maiorDeIdade))
